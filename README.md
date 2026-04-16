@@ -1,6 +1,6 @@
 # 📝 Lista de Tarefas - React
 
-Um aplicativo simples de lista de tarefas desenvolvido com React, com funcionalidades de **busca**, **filtro por status**, **ordenação alfabética** e **categorias**.
+Um sistema simples de lista de tarefas desenvolvido com React, com funcionalidades de **busca**, **filtro por status**, **ordenação alfabética** e **categorias**.
 
 ---
 
